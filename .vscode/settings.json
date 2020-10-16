@@ -1,7 +1,9 @@
 {
 	"files.exclude": {
-		"C:/Users/Leon/Documents/Unreal Projects/BuildingEscape/.vscode": true,
-		"C:/Users/Leon/Documents/Unreal Projects/BuildingEscape/Content": true,
-		"C:/Users/Leon/Documents/Unreal Projects/BuildingEscape/Intermediate": true
+		"D:/Projects/BuidlingEscape_UE4/.git": true,
+		"D:/Projects/BuidlingEscape_UE4/.vscode": true,
+		"D:/Projects/BuidlingEscape_UE4/Content": true,
+		"D:/Projects/BuidlingEscape_UE4/Intermediate": true,
+		"D:/Projects/BuidlingEscape_UE4/Saved": true
 	}
 }
